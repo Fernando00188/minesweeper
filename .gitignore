@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Builds / caches
+dist/
+.vite/
+*.log
+
+# OS / editor junk
+.DS_Store
+.env
